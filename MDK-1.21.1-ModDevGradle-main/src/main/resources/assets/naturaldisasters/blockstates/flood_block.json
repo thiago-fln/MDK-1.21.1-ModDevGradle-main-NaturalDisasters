@@ -1,0 +1,100 @@
+{
+  "multipart": [
+    {
+      "when": {
+        "level": "1",
+        "top": "true"
+      },
+      "apply": {
+        "model": "naturaldisasters:block/flood_top_1"
+      }
+    },
+    {
+      "when": {
+        "level": "1",
+        "north": "true"
+      },
+      "apply": {
+        "model": "naturaldisasters:block/flood_side_1"
+      }
+    },
+    {
+      "when": {
+        "level": "1",
+        "east": "true"
+      },
+      "apply": {
+        "model": "naturaldisasters:block/flood_side_1",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "level": "1",
+        "south": "true"
+      },
+      "apply": {
+        "model": "naturaldisasters:block/flood_side_1",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "level": "1",
+        "west": "true"
+      },
+      "apply": {
+        "model": "naturaldisasters:block/flood_side_1",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "level": "2",
+        "top": "true"
+      },
+      "apply": {
+        "model": "naturaldisasters:block/flood_top_2"
+      }
+    },
+    {
+      "when": {
+        "level": "2",
+        "north": "true"
+      },
+      "apply": {
+        "model": "naturaldisasters:block/flood_side_2"
+      }
+    },
+    {
+      "when": {
+        "level": "2",
+        "east": "true"
+      },
+      "apply": {
+        "model": "naturaldisasters:block/flood_side_2",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "level": "2",
+        "south": "true"
+      },
+      "apply": {
+        "model": "naturaldisasters:block/flood_side_2",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "level": "2",
+        "west": "true"
+      },
+      "apply": {
+        "model": "naturaldisasters:block/flood_side_2",
+        "y": 270
+      }
+    }
+  ]
+}

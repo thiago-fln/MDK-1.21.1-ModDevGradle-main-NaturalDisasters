@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "naturaldisasters:block/weather_radar_top",
+    "bottom": "naturaldisasters:block/weather_radar_bottom",
+    "side": "naturaldisasters:block/weather_radar_side"
+  }
+}

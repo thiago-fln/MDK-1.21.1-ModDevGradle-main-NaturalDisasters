@@ -1,0 +1,65 @@
+{
+  "tornado_roar": {
+    "subtitle": "subtitles.naturaldisasters.tornado_roar",
+    "sounds": [
+      {
+        "name": "minecraft:item/elytra/elytra_loop"
+      }
+    ]
+  },
+  "tornado_siren": {
+    "subtitle": "subtitles.naturaldisasters.tornado_siren",
+    "sounds": [
+      {
+        "name": "minecraft:block/beacon/ambient"
+      }
+    ]
+  },
+  "earthquake_rumble": {
+    "subtitle": "subtitles.naturaldisasters.earthquake_rumble",
+    "sounds": [
+      {
+        "name": "minecraft:ambient/weather/thunder1",
+        "pitch": 0.5
+      },
+      {
+        "name": "minecraft:ambient/weather/thunder2",
+        "pitch": 0.5
+      },
+      {
+        "name": "minecraft:ambient/weather/thunder3",
+        "pitch": 0.5
+      }
+    ]
+  },
+  "sandstorm_wind": {
+    "subtitle": "subtitles.naturaldisasters.sandstorm_wind",
+    "sounds": [
+      {
+        "name": "minecraft:item/elytra/elytra_loop",
+        "pitch": 1.4
+      }
+    ]
+  },
+  "weather_alert": {
+    "subtitle": "subtitles.naturaldisasters.weather_alert",
+    "sounds": [
+      {
+        "name": "minecraft:note/pling"
+      }
+    ]
+  },
+  "tsunami_roar": {
+    "subtitle": "subtitles.naturaldisasters.tsunami_roar",
+    "sounds": [
+      {
+        "name": "minecraft:item/elytra/elytra_loop",
+        "pitch": 0.5
+      },
+      {
+        "name": "minecraft:ambient/underwater/underwater_ambience",
+        "pitch": 0.6
+      }
+    ]
+  }
+}

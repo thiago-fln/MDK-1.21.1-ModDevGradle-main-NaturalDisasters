@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "naturaldisasters:block/tornado_siren_top_active",
+    "side": "naturaldisasters:block/tornado_siren_side_active"
+  }
+}

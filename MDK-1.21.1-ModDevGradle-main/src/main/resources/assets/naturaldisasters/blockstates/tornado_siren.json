@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "active=false": {
+      "model": "naturaldisasters:block/tornado_siren"
+    },
+    "active=true": {
+      "model": "naturaldisasters:block/tornado_siren_active"
+    }
+  }
+}

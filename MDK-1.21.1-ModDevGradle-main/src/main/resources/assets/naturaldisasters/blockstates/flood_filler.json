@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "naturaldisasters:block/flood_filler"
+    }
+  }
+}
